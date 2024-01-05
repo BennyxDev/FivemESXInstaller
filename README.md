@@ -12,6 +12,11 @@ and run in then
 
 now go on this site press left click on your version (what you want)
 
+## THE NEWEST ARTIFACT
+```
+https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/7281-0b61c93a3308360ea70d443398eab17f47453e11/fx.tar.xz
+```
+
 ```
 https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/
 ```
