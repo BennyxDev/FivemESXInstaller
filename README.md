@@ -1,4 +1,6 @@
-# linux-fiveminstaller
+# BY JULIAN GRANSEE
+
+## linux-fiveminstaller
 
 To install log in to tabby/putty/terminus via ssh and log in when you are logged in just copy
 
