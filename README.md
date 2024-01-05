@@ -4,7 +4,7 @@
 
 To install log in to tabby/putty/terminus via ssh and log in when you are logged in just copy
 
-bash <(curl -s https://raw.githubusercontent.com/bennyxdev/linux-fiveminstaller/main/fiveminstaller.sh)
+bash <(curl -s https://raw.githubusercontent.com/BennyxDev/FivemESXInstaller/main/fiveminstaller.sh)
 
 and run in then
 
